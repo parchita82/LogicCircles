@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DirectionNode : MonoBehaviour
+public class DirectionalNode : MonoBehaviour
 {
     SpriteRenderer sr;
     public Sprite none;
