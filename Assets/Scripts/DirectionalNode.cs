@@ -14,7 +14,6 @@ public class DirectionalNode : MonoBehaviour
     void Start()
     {
         sr = GetComponent<SpriteRenderer>();
-        sr.sprite = left;
         SwitchSprite();
     }
 
